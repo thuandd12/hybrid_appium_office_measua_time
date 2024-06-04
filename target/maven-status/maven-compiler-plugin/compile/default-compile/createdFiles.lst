@@ -1,0 +1,11 @@
+ikame\docxreader\common\constant\CT_Account.class
+ikame\docxreader\testsuite\TS_02_DocxReader_Logic_View_Detail_File.class
+ikame\docxreader\testsuite\TS_01_DocxReader_Logic_Scan.class
+ikame\docxreader\ui\PageUI_DocxReader_Scanner.class
+ikame\docxreader\testsuite\TS_03_DocxReader_Logic_Create.class
+ikame\docxreader\common\TestReport.class
+ikame\docxreder\pageobject\PageObject_DocxReader.class
+ikame\docxreader\common\commonBase.class
+ikame\docxreader\common\Management_Account.class
+ikame\docxreader\ui\PageUI_DocxReader.class
+ikame\docxreader\common\TestLogger.class

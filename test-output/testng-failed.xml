@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test" verbose="2">
+    <classes>
+      <class name="ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan">
+        <methods>
+          <include name="TC_001_Logic_AddButton_From_Camera_BtnDone"/>
+        </methods>
+      </class> <!-- ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan -->
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Failed suite [Default suite] -->

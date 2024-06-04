@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T10:00:06Z" name="Default suite" finished-at="2024-05-20T10:00:55Z" duration-ms="49692">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T10:00:06Z" name="Default test" finished-at="2024-05-20T10:00:55Z" duration-ms="49692">
+      <class name="ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan">
+        <test-method is-config="true" signature="init()[pri:0, instance:ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan@65a15628]" started-at="2024-05-20T17:00:06Z" name="init" finished-at="2024-05-20T17:00:16Z" duration-ms="10672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="TC_001_Logic_AddButton_From_Camera_BtnDone()[pri:0, instance:ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan@65a15628]" started-at="2024-05-20T17:00:16Z" name="TC_001_Logic_AddButton_From_Camera_BtnDone" finished-at="2024-05-20T17:00:55Z" duration-ms="38667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Logic_AddButton_From_Camera_BtnDone -->
+        <test-method is-config="true" signature="after()[pri:0, instance:ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan@65a15628]" started-at="2024-05-20T17:00:55Z" name="after" finished-at="2024-05-20T17:00:55Z" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sale Functional Test]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="ikame.docxreader.common.TestReport"/>
+  </listeners>
+  <test name="Connect">
+    <groups>
+      <run>
+        <exclude name="pending"/>
+      </run>
+    </groups>
+    <packages>
+      <package name="ikame.docxreader.testsuite"/>
+    </packages>
+    <classes>
+      <class name="ikame.docxreader.testsuite.TS_01_DocxReader_Logic_Scan"/>
+      <class name="ikame.docxreader.testsuite.TS_02_DocxReader_Logic_View_Detail_File"/>
+      <class name="ikame.docxreader.testsuite.TS_03_DocxReader_Logic_Create"/>
+    </classes>
+  </test> <!-- Connect -->
+</suite> <!-- Failed suite [Sale Functional Test] -->
